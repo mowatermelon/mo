@@ -1,0 +1,162 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M917.806 229.076c-22.208-30.292-53.174-65.7-87.178-99.704s-69.412-64.964-99.704-87.178c-51.574-37.82-76.592-42.194-90.924-42.194h-496c-44.112 0-80 35.888-80 80v864c0 44.112 35.884 80 80 80h736c44.112 0 80-35.888 80-80v-624c0-14.332-4.372-39.35-42.194-90.924v0 0zM785.374 174.626c30.7 30.7 54.8 58.398 72.58 81.374h-153.954v-153.946c22.98 17.78 50.678 41.878 81.374 72.572v0 0zM896 944c0 8.672-7.328 16-16 16h-736c-8.672 0-16-7.328-16-16v-864c0-8.672 7.328-16 16-16 0 0 495.956-0.002 496 0v224c0 17.672 14.322 32 32 32h224v624z",
+          "M256 64h128v64h-128v-64z",
+          "M384 128h128v64h-128v-64z",
+          "M256 192h128v64h-128v-64z",
+          "M384 256h128v64h-128v-64z",
+          "M256 320h128v64h-128v-64z",
+          "M384 384h128v64h-128v-64z",
+          "M256 448h128v64h-128v-64z",
+          "M384 512h128v64h-128v-64z",
+          "M256 848c0 26.4 21.6 48 48 48h160c26.4 0 48-21.6 48-48v-160c0-26.4-21.6-48-48-48h-80v-64h-128v272zM448 768v64h-128v-64h128z"
+        ],
+        "tags": [
+          "file-zip",
+          "file",
+          "document",
+          "file-compressed",
+          "file-type",
+          "file-format"
+        ],
+        "defaultCode": 59691,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "file-zip, file9",
+        "name": "file-zip",
+        "order": 31,
+        "id": 44,
+        "prevSize": 32,
+        "code": 59691
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 43
+    },
+    {
+      "icon": {
+        "paths": [
+          "M256 64h512v128h-512v-128z",
+          "M960 256h-896c-35.2 0-64 28.8-64 64v320c0 35.2 28.794 64 64 64h192v256h512v-256h192c35.2 0 64-28.8 64-64v-320c0-35.2-28.8-64-64-64zM128 448c-35.346 0-64-28.654-64-64s28.654-64 64-64 64 28.654 64 64-28.652 64-64 64zM704 896h-384v-320h384v320z"
+        ],
+        "tags": [
+          "printer",
+          "print"
+        ],
+        "defaultCode": 59732,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "printer, print",
+        "name": "printer",
+        "order": 23,
+        "id": 85,
+        "prevSize": 32,
+        "code": 59732
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 84
+    },
+    {
+      "icon": {
+        "paths": [
+          "M64 0h384v64h-384zM576 0h384v64h-384zM952 320h-56v-256h-256v256h-256v-256h-256v256h-56c-39.6 0-72 32.4-72 72v560c0 39.6 32.4 72 72 72h304c39.6 0 72-32.4 72-72v-376h128v376c0 39.6 32.4 72 72 72h304c39.6 0 72-32.4 72-72v-560c0-39.6-32.4-72-72-72zM348 960h-248c-19.8 0-36-14.4-36-32s16.2-32 36-32h248c19.8 0 36 14.4 36 32s-16.2 32-36 32zM544 512h-64c-17.6 0-32-14.4-32-32s14.4-32 32-32h64c17.6 0 32 14.4 32 32s-14.4 32-32 32zM924 960h-248c-19.8 0-36-14.4-36-32s16.2-32 36-32h248c19.8 0 36 14.4 36 32s-16.2 32-36 32z"
+        ],
+        "tags": [
+          "binoculars",
+          "lookup",
+          "search",
+          "find"
+        ],
+        "defaultCode": 59781,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "binoculars, lookup",
+        "name": "binoculars",
+        "order": 25,
+        "id": 134,
+        "prevSize": 32,
+        "code": 59781
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 133
+    },
+    {
+      "icon": {
+        "paths": [
+          "M992.262 871.396l-242.552-206.294c-25.074-22.566-51.89-32.926-73.552-31.926 57.256-67.068 91.842-154.078 91.842-249.176 0-212.078-171.922-384-384-384-212.076 0-384 171.922-384 384s171.922 384 384 384c95.098 0 182.108-34.586 249.176-91.844-1 21.662 9.36 48.478 31.926 73.552l206.294 242.552c35.322 39.246 93.022 42.554 128.22 7.356s31.892-92.898-7.354-128.22zM384 640c-141.384 0-256-114.616-256-256s114.616-256 256-256 256 114.616 256 256-114.614 256-256 256z"
+        ],
+        "tags": [
+          "search",
+          "magnifier",
+          "magnifying-glass",
+          "inspect",
+          "find"
+        ],
+        "defaultCode": 59782,
+        "grid": 16,
+        "attrs": []
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "search, magnifier",
+        "name": "search",
+        "order": 24,
+        "id": 135,
+        "prevSize": 32,
+        "code": 59782
+      },
+      "setIdx": 1,
+      "setId": 1,
+      "iconIdx": 134
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16,
+    "showGrid": true
+  }
+}
